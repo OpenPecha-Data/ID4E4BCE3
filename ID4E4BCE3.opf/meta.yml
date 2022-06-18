@@ -1,0 +1,39 @@
+id: ID4E4BCE3
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:03:50.461772'
+last_modified: '2022-06-18T20:03:50.461790'
+parser: null
+source_metadata:
+  title: Replies to various doctrinal questions and polemics (block print), colophon
+    excerpt
+  author: karma phrin las pa/
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-07-23); revision in process, thematic TEI
+    markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:blo bzang rgyal mtshan/ (Dharamsala) (lg)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:blo bzang rgyal mtshan/ (Dharamsala) (lg)
+  text_witnesses: https://sakyaresearch.org/sources/4888
+  bases:
+    7ed2:
+      title: Replies to various doctrinal questions and polemics (block print), colophon
+        excerpt
+      order: 1
+      base_file: 7ed2.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
